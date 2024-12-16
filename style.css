@@ -1,0 +1,29 @@
+/* Custom Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+header, footer {
+  background-color: #ff7043;
+}
+
+h1.header {
+  font-size: 3rem;
+  color: #ff7043;
+}
+
+.page-footer {
+  background-color: #ff7043;
+}
+
+.input-field input[type="text"] {
+  margin-top: 20px;
+}
+
+#prediction-result {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ff7043;
+  text-align: center;
+}
